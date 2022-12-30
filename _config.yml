@@ -1,3 +1,4 @@
 remote_theme: pages-themes/slate@v0.2.0
+title: РЕФЕРАТ ПО ДИСЦИПЛИНЕ «ОСНОВЫ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ»
 plugins:
 - jekyll-remote-theme
